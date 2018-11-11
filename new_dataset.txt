@@ -1,0 +1,2230 @@
+T464763,Theft
+T464766,Assault
+T464768,Assault
+T464770,Failure to Appear
+T464771,DUI
+T464772,Criminal Damage
+T464773,Assault
+T464774,Criminal Damage
+T464775,Criminal Trespass and Burglary
+T464776,Transportation Violations
+T464778,Theft
+T464779,Drug Offenses
+T464780,Assault
+T464781,Failure to Appear
+T464782,Assault
+T464783,Drug Offenses
+T464784,Criminal Damage
+T464785,Assault
+T464786,Theft
+T464787,Drug Offenses
+T464789,Drug Offenses
+T464790,Assault
+T464791,Assault
+T464792,DUI
+T464793,Drug Offenses
+T464794,Interfere with Judicial Process
+T464795,Theft
+T464797,Assault
+T464798,Assault
+T464799,Transportation Violations
+T464800,Assault
+T464801,Assault
+T464803,Theft
+T464805,Weapons and Explosives
+T464806,Interfere with Judicial Process
+T464807,Assault
+T464808,Fraud
+T464809,Assault
+T464810,Criminal Trespass and Burglary
+T464811,Assault
+T464812,Criminal Trespass and Burglary
+T464814,Failure to Appear
+T464815,Assault
+T464817,Offenses against Public Order
+T464818,Criminal Trespass and Burglary
+T464819,Crimes Against Children
+T464820,Assault
+T464821,Drug Offenses
+T464822,Drug Offenses
+T464823,Drug Offenses
+T464825,Transportation Violations
+T464827,Drug Offenses
+T464828,Assault
+T464830,Assault
+T464832,Drug Offenses
+T464833,Theft
+T464834,Drug Offenses
+T464835,Criminal Trespass and Burglary
+T464836,Drug Offenses
+T464837,Weapons and Explosives
+T464839,Theft
+T464841,Criminal Damage
+T464842,Transportation Violations
+T464843,Transportation Violations
+T464845,Criminal Trespass and Burglary
+T464847,DUI
+T464849,Transportation Violations
+T464852,Theft
+T464855,Assault
+T464856,Assault
+T464858,Theft
+T464859,Criminal Trespass and Burglary
+T464861,Theft
+T464862,Transportation Violations
+T464863,Forgery
+T464864,Drug Offenses
+T464865,Theft
+T464866,Drug Offenses
+T464867,Interfere with Judicial Process
+T464872,Transportation Violations
+T464873,Drug Offenses
+T464874,Theft
+T464875,Assault
+T464876,Transportation Violations
+T464877,Criminal Trespass and Burglary
+T464880,Criminal Trespass and Burglary
+T464882,DUI
+T464883,Weapons and Explosives
+T464884,DUI
+T464885,Theft
+T464886,Transportation Violations
+T464887,Drug Offenses
+T464891,Criminal Damage
+T464892,Drug Offenses
+T464894,Drug Offenses
+T464896,Theft
+T464897,Drug Offenses
+T464898,Theft
+T464899,Theft
+T464900,Transportation Violations
+T464901,Forgery
+T464902,Offenses against Public Order
+T464903,Drug Offenses
+T464908,Drug Offenses
+T464913,Criminal Damage
+T464914,Criminal Trespass and Burglary
+T464915,Offenses against Public Order
+T464918,Criminal Trespass and Burglary
+T464919,Transportation Violations
+T464920,Assault
+T464925,Drug Offenses
+T464926,Drug Offenses
+T464928,Drug Offenses
+T464929,Transportation Violations
+T464931,Forgery
+T464932,Theft
+T464933,Theft
+T464934,Theft
+T464935,Failure to Appear
+T464936,Offenses against Public Order
+T464938,Criminal Trespass and Burglary
+T464939,Drug Offenses
+T464940,Drug Offenses
+T464941,Criminal Damage
+T464942,Assault
+T464943,Offenses against Public Order
+T464948,Drug Offenses
+T464949,Drug Offenses
+T464950,DUI
+T464951,Interfere with Judicial Process
+T464952,Drug Offenses
+T464953,Assault
+T464954,Crimes Against Children
+T464955,Drug Offenses
+T464958,Assault
+T464959,Transportation Violations
+T464960,Forgery
+T464961,Transportation Violations
+T464962,Offenses against Public Order
+T464963,Drug Offenses
+T464751,Theft
+T464760,Criminal Trespass and Burglary
+T464494,Criminal Trespass and Burglary
+T464754,Transportation Violations
+T464755,Transportation Violations
+T464756,Theft
+T464757,Drug Offenses
+T464758,Weapons and Explosives
+T464759,Criminal Trespass and Burglary
+T464497,Criminal Trespass and Burglary
+T464499,Assault
+T464500,Theft
+T464502,Forgery
+T464503,Criminal Damage
+T464504,Assault
+T464506,Criminal Trespass and Burglary
+T464507,Assault
+T464508,Criminal Trespass and Burglary
+T464509,Theft
+T464510,Drug Offenses
+T464511,Weapons and Explosives
+T464515,Assault
+T464516,Drug Offenses
+T464517,Robbery
+T464518,Forgery
+T464519,Fraud
+T464521,Assault
+T464522,Drug Offenses
+T464523,Theft
+T464524,Drug Offenses
+T464525,Transportation Violations
+T464527,Assault
+T464528,Assault
+T464531,Theft
+T464532,Assault
+T464533,Drug Offenses
+T464534,Weapons and Explosives
+T464535,Theft
+T464536,Theft
+T464538,Assault
+T464539,Criminal Trespass and Burglary
+T464540,Assault
+T464541,Forgery
+T464542,Criminal Damage
+T464543,Assault
+T464544,Criminal Trespass and Burglary
+T464545,Weapons and Explosives
+T464547,Criminal Damage
+T464550,Drug Offenses
+T464551,Criminal Damage
+T464552,Drug Offenses
+T464553,Weapons and Explosives
+T464554,Drug Offenses
+T464555,Assault
+T464556,Theft
+T464558,Assault
+T464559,Drug Offenses
+T464560,Drug Offenses
+T464561,Drug Offenses
+T464563,Homicide
+T464564,Weapons and Explosives
+T464565,Criminal Trespass and Burglary
+T464567,Criminal Trespass and Burglary
+T464570,Robbery
+T464572,Weapons and Explosives
+T464574,Assault
+T464575,Assault
+T464576,Forgery
+T464577,Assault
+T464579,Assault
+T464585,Criminal Trespass and Burglary
+T464587,Drug Offenses
+T464588,Assault
+T464592,Drug Offenses
+T464594,Assault
+T464595,Assault
+T464596,Theft
+T464597,Assault
+T464600,Criminal Trespass and Burglary
+T464602,Theft
+T464603,Theft
+T464605,Transportation Violations
+T464606,Drug Offenses
+T464608,Criminal Damage
+T464609,Theft
+T464610,Criminal Trespass and Burglary
+T464611,Drug Offenses
+T464612,Drug Offenses
+T464613,Drug Offenses
+T464614,Criminal Trespass and Burglary
+T464615,Theft
+T464617,Criminal Damage
+T464618,Assault
+T464619,Interfere with Judicial Process
+T464620,Theft
+T464621,Theft
+T464622,Criminal Trespass and Burglary
+T464623,Assault
+T464624,Interfere with Judicial Process
+T464625,Interfere with Judicial Process
+T464626,Crimes Against Children
+T464629,Assault
+T464632,Offenses against Public Order
+T464634,Theft
+T464636,Theft
+T464638,Homicide
+T464639,Theft
+T464640,Theft
+T464641,Fraud
+T464642,Criminal Damage
+T464643,Assault
+T464644,Theft
+T464645,Offenses against Public Order
+T464646,Criminal Damage
+T464647,Interfere with Judicial Process
+T464648,Theft
+T464649,Sex Crimes
+T464650,Sex Crimes
+T464656,Drug Offenses
+T464658,Theft
+T464659,Interfere with Judicial Process
+T464660,Drug Offenses
+T464661,Interfere with Judicial Process
+T464665,Forgery
+T464666,Assault
+T464667,Drug Offenses
+T464668,Assault
+T464669,Criminal Trespass and Burglary
+T464670,Transportation Violations
+T464671,Drug Offenses
+T464672,Criminal Trespass and Burglary
+T464674,Sex Crimes
+T464675,Transportation Violations
+T464676,Theft
+T464677,Drug Offenses
+T464678,Drug Offenses
+T464681,Criminal Trespass and Burglary
+T489653,Offenses against Public Order
+T489654,Assault
+T489655,Criminal Damage
+T489656,Assault
+T489657,Transportation Violations
+T489658,Transportation Violations
+T489659,Theft
+T489660,Criminal Trespass and Burglary
+T489661,DUI
+T489662,Assault
+T489664,Criminal Damage
+T489665,Criminal Damage
+T489666,Assault
+T489667,Assault
+T489668,Assault
+T489670,Interfere with Judicial Process
+T489671,Assault
+T489672,Criminal Damage
+T489673,Criminal Trespass and Burglary
+T489674,Assault
+T489675,Theft
+T489676,Drug Offenses
+T489677,Criminal Trespass and Burglary
+T489678,Assault
+T489679,Criminal Damage
+T489680,Criminal Damage
+T489681,DUI
+T489682,Drug Offenses
+T489683,Drug Offenses
+T489684,Criminal Damage
+T489685,Interfere with Judicial Process
+T489686,Transportation Violations
+T489689,Criminal Trespass and Burglary
+T489690,Assault
+T489693,Drug Offenses
+T489694,Drug Offenses
+T489695,Criminal Damage
+T489696,Assault
+T489697,Assault
+T489698,Failure to Appear
+T489699,Weapons and Explosives
+T489700,Offenses against Public Order
+T489701,Transportation Violations
+T489702,Drug Offenses
+T489703,Transportation Violations
+T489704,Criminal Trespass and Burglary
+T489705,Offenses against Public Order
+T489706,Theft
+T489707,Criminal Trespass and Burglary
+T489708,Criminal Trespass and Burglary
+T489709,DUI
+T489710,Transportation Violations
+T489712,Forgery
+T489713,Drug Offenses
+T489714,Failure to Appear
+T489715,Criminal Trespass and Burglary
+T489717,Assault
+T489718,DUI
+T489719,Criminal Trespass and Burglary
+T489720,Weapons and Explosives
+T489722,Criminal Trespass and Burglary
+T489723,Assault
+T489724,Assault
+T489725,Criminal Trespass and Burglary
+T489727,Drug Offenses
+T489728,Offenses against Public Order
+T489729,Assault
+T489730,Theft
+T489731,Criminal Trespass and Burglary
+T489732,Criminal Trespass and Burglary
+T489733,Criminal Trespass and Burglary
+T489734,Assault
+T489735,Transportation Violations
+T489736,Criminal Trespass and Burglary
+T489739,Criminal Trespass and Burglary
+T489740,Theft
+T489741,Criminal Trespass and Burglary
+T489742,Drug Offenses
+T489743,Criminal Damage
+T489744,Criminal Trespass and Burglary
+T489746,Weapons and Explosives
+T489747,Interfere with Judicial Process
+T489748,Transportation Violations
+T489749,Drug Offenses
+T489751,Assault
+T489752,Criminal Trespass and Burglary
+T489753,Theft
+T489754,Theft
+T489757,Criminal Damage
+T489758,Transportation Violations
+T489759,Drug Offenses
+T489765,Drug Offenses
+T489768,Drug Offenses
+T489769,Drug Offenses
+T489772,Assault
+T489775,Transportation Violations
+T489776,Homicide
+T489780,DUI
+T489782,Forgery
+T489783,Drug Offenses
+T489784,DUI
+T489786,Drug Offenses
+T489787,Assault
+T489793,Sex Crimes
+T489794,Theft
+T489796,Theft
+T489797,Forgery
+T489798,Drug Offenses
+T489800,Assault
+T489802,Drug Offenses
+T489803,Theft
+T489804,Criminal Trespass and Burglary
+T489805,Drug Offenses
+T489806,Assault
+T489808,Offenses against Public Order
+T489809,Offenses against Public Order
+T489810,Theft
+T489816,Drug Offenses
+T489817,Transportation Violations
+T489818,Theft
+T489819,Drug Offenses
+T489820,Failure to Appear
+T489821,DUI
+T489822,Assault
+T489824,Transportation Violations
+T489825,Theft
+T489826,Drug Offenses
+T489827,Theft
+T489828,Theft
+T489829,Drug Offenses
+T489830,Drug Offenses
+T489831,Theft
+T489832,Drug Offenses
+T489833,Criminal Trespass and Burglary
+T489834,Theft
+T489835,Robbery
+T489837,Assault
+T489838,Criminal Trespass and Burglary
+T489839,Robbery
+T489841,Theft
+T489842,Criminal Trespass and Burglary
+T489843,DUI
+T489844,Criminal Trespass and Burglary
+T489845,Criminal Trespass and Burglary
+T489846,Assault
+T489847,Criminal Trespass and Burglary
+T489850,Criminal Trespass and Burglary
+T489851,Transportation Violations
+T489853,Transportation Violations
+T489854,Criminal Trespass and Burglary
+T489856,Assault
+T489859,Offenses against Public Order
+T489860,Weapons and Explosives
+T489861,Drug Offenses
+T489862,Drug Offenses
+T489863,Drug Offenses
+T489865,Weapons and Explosives
+T489867,Criminal Trespass and Burglary
+T489868,Theft
+T489869,Theft
+T489871,Assault
+T489873,Weapons and Explosives
+T489874,Assault
+T489875,Drug Offenses
+T489877,Drug Offenses
+T489878,DUI
+T489880,Weapons and Explosives
+T489881,Assault
+T489882,Criminal Trespass and Burglary
+T489883,Theft
+T489884,Weapons and Explosives
+T489886,Transportation Violations
+T489887,Theft
+T489888,DUI
+T489890,Theft
+T489891,Theft
+T489892,Transportation Violations
+T489895,Assault
+T489651,Offenses against Public Order
+T489652,Assault
+T489396,Theft
+T489414,Theft
+T489417,Theft
+T489420,Drug Offenses
+T489421,Drug Offenses
+T489422,Drug Offenses
+T489423,Assault
+T489425,Assault
+T489429,Transportation Violations
+T489430,Assault
+T489432,Theft
+T489433,Criminal Trespass and Burglary
+T489435,Drug Offenses
+T489437,Theft
+T489438,Drug Offenses
+T489439,DUI
+T489440,Theft
+T489441,Assault
+T489442,Drug Offenses
+T489444,Drug Offenses
+T489445,Criminal Damage
+T489446,Criminal Trespass and Burglary
+T489447,DUI
+T489448,Transportation Violations
+T489449,Transportation Violations
+T489450,DUI
+T489451,Robbery
+T489452,Assault
+T489453,Transportation Violations
+T489454,Drug Offenses
+T489455,Criminal Trespass and Burglary
+T489456,Assault
+T489457,Assault
+T489458,Drug Offenses
+T489459,Failure to Appear
+T489460,Drug Offenses
+T489461,Criminal Trespass and Burglary
+T489462,Assault
+T489463,Assault
+T489465,Theft
+T489466,Assault
+T489467,Drug Offenses
+T489468,DUI
+T489469,Drug Offenses
+T489471,Drug Offenses
+T489474,Transportation Violations
+T489475,Drug Offenses
+T489476,Criminal Trespass and Burglary
+T489477,Criminal Damage
+T489479,Theft
+T489480,Theft
+T489481,DUI
+T489484,Drug Offenses
+T489487,Weapons and Explosives
+T489488,Drug Offenses
+T489490,Theft
+T489491,Transportation Violations
+T489492,Theft
+T489493,Assault
+T489494,Weapons and Explosives
+T489495,Homicide
+T489496,Assault
+T489497,Drug Offenses
+T489499,Drug Offenses
+T489500,Assault
+T489501,Transportation Violations
+T489502,Drug Offenses
+T489504,Criminal Trespass and Burglary
+T489508,Transportation Violations
+T489513,Theft
+T489514,Criminal Trespass and Burglary
+T489515,Assault
+T489516,Drug Offenses
+T489517,Robbery
+T489518,Drug Offenses
+T489519,Criminal Damage
+T489520,Drug Offenses
+T489522,Drug Offenses
+T489523,Assault
+T489524,Criminal Damage
+T489525,Drug Offenses
+T489527,Criminal Trespass and Burglary
+T489531,Interfere with Judicial Process
+T489533,Drug Offenses
+T489534,Crimes Against Children
+T489535,Theft
+T489536,DUI
+T489537,DUI
+T489538,Offenses against Public Order
+T489540,Criminal Trespass and Burglary
+T489541,Assault
+T489544,Criminal Trespass and Burglary
+T489545,Transportation Violations
+T489546,Theft
+T489547,Criminal Damage
+T489549,Offenses against Public Order
+T489552,Theft
+T489554,Interfere with Judicial Process
+T489555,Criminal Trespass and Burglary
+T489558,Robbery
+T489559,Criminal Trespass and Burglary
+T489562,Weapons and Explosives
+T489563,Theft
+T489565,Theft
+T489566,Criminal Trespass and Burglary
+T489569,Transportation Violations
+T489571,Criminal Trespass and Burglary
+T489572,Criminal Trespass and Burglary
+T489573,Assault
+T489574,Theft
+T489575,Theft
+T489576,Weapons and Explosives
+T489577,Failure to Appear
+T489581,Forgery
+T489583,Weapons and Explosives
+T489584,Drug Offenses
+T489585,Theft
+T489586,Criminal Trespass and Burglary
+T489587,Theft
+T489588,Theft
+T489590,Sex Crimes
+T489592,Criminal Trespass and Burglary
+T489593,Criminal Trespass and Burglary
+T489594,Criminal Trespass and Burglary
+T489595,Offenses against Public Order
+T489597,Failure to Appear
+T489599,Criminal Trespass and Burglary
+T489600,Weapons and Explosives
+T489602,Interfere with Judicial Process
+T489604,Criminal Trespass and Burglary
+T489605,Robbery
+T489608,Drug Offenses
+T489609,Theft
+T489610,Assault
+T489611,Theft
+T489612,Drug Offenses
+T489613,Theft
+T489614,Failure to Appear
+T489615,Theft
+T489616,Assault
+T489617,Assault
+T489619,Family Offenses
+T489624,Drug Offenses
+T489625,DUI
+T489626,Criminal Trespass and Burglary
+T489627,Criminal Trespass and Burglary
+T489630,Criminal Trespass and Burglary
+T489631,Assault
+T489632,Assault
+T489633,Criminal Trespass and Burglary
+T489634,Offenses against Public Order
+T489635,Criminal Trespass and Burglary
+T489637,Drug Offenses
+T489638,Assault
+T489639,Criminal Damage
+T489640,Drug Offenses
+T489641,Transportation Violations
+T489643,Failure to Appear
+T489645,Drug Offenses
+T489646,Drug Offenses
+T489647,Criminal Trespass and Burglary
+T489648,Criminal Trespass and Burglary
+T489649,Assault
+T477208,Fraud
+T477209,Assault
+T477210,Fraud
+T477211,Fraud
+T477213,Fraud
+T477214,Drug Offenses
+T477215,Offenses against Public Order
+T477216,Criminal Trespass and Burglary
+T477217,Fraud
+T477218,Assault
+T477220,Assault
+T477221,Criminal Trespass and Burglary
+T477222,Criminal Damage
+T477224,Fraud
+T477225,Drug Offenses
+T477227,Theft
+T477228,Criminal Trespass and Burglary
+T477230,Assault
+T477231,Theft
+T477232,Criminal Trespass and Burglary
+T477233,Theft
+T477234,Robbery
+T477236,Theft
+T477237,Theft
+T477238,DUI
+T477240,Theft
+T477243,Criminal Damage
+T477244,Theft
+T477245,Transportation Violations
+T477246,Drug Offenses
+T477247,Transportation Violations
+T477248,Criminal Trespass and Burglary
+T477249,Theft
+T477250,Assault
+T477251,Drug Offenses
+T477253,Assault
+T477254,Offenses against Public Order
+T477255,Criminal Trespass and Burglary
+T477256,Assault
+T477257,Weapons and Explosives
+T477258,Theft
+T477259,Weapons and Explosives
+T477260,Assault
+T477261,Drug Offenses
+T477262,Assault
+T477263,Kidnapping
+T477264,DUI
+T477266,Assault
+T477267,Assault
+T477268,Criminal Trespass and Burglary
+T477269,Theft
+T477270,Assault
+T477271,Offenses against Public Order
+T477272,Assault
+T477273,Criminal Damage
+T477275,DUI
+T477276,Assault
+T477277,Interfere with Judicial Process
+T477278,Drug Offenses
+T477279,Drug Offenses
+T477280,Criminal Trespass and Burglary
+T477281,Weapons and Explosives
+T477285,Fraud
+T477287,Drug Offenses
+T477290,Theft
+T477292,Assault
+T477293,Criminal Trespass and Burglary
+T477294,Drug Offenses
+T477295,Weapons and Explosives
+T477296,Criminal Damage
+T477297,Assault
+T477299,Drug Offenses
+T477301,Criminal Trespass and Burglary
+T477302,DUI
+T477303,Forgery
+T477304,Drug Offenses
+T477305,Theft
+T477307,Assault
+T477308,Drug Offenses
+T477309,Assault
+T477310,Offenses against Public Order
+T477189,Transportation Violations
+T477191,Drug Offenses
+T477200,Theft
+T477201,Transportation Violations
+T477202,Theft
+T477206,Theft
+T477207,Assault
+T476910,Criminal Trespass and Burglary
+T477193,Criminal Trespass and Burglary
+T477194,Failure to Appear
+T477195,Criminal Trespass and Burglary
+T477196,Assault
+T477197,Interfere with Judicial Process
+T477198,Theft
+T477199,Drug Offenses
+T476912,Interfere with Judicial Process
+T476913,Theft
+T476914,Forgery
+T476916,Drug Offenses
+T476918,Interfere with Judicial Process
+T476919,Drug Offenses
+T476921,Criminal Trespass and Burglary
+T476923,Theft
+T476924,Criminal Trespass and Burglary
+T476925,Drug Offenses
+T476926,Theft
+T476928,Transportation Violations
+T476929,Drug Offenses
+T476930,DUI
+T476931,Offenses against Public Order
+T476932,Criminal Trespass and Burglary
+T476933,Drug Offenses
+T476934,Assault
+T476935,Criminal Trespass and Burglary
+T476936,Criminal Damage
+T476937,Theft
+T476939,Transportation Violations
+T476940,DUI
+T476941,DUI
+T476942,Drug Offenses
+T476943,Assault
+T476944,Transportation Violations
+T476945,Assault
+T476946,Criminal Trespass and Burglary
+T476947,Criminal Trespass and Burglary
+T476948,Criminal Trespass and Burglary
+T476949,Theft
+T476950,Transportation Violations
+T476951,Criminal Trespass and Burglary
+T476952,DUI
+T476954,Assault
+T476955,Theft
+T476959,Drug Offenses
+T476960,Criminal Damage
+T476961,Theft
+T476962,Drug Offenses
+T476963,Criminal Trespass and Burglary
+T476964,Drug Offenses
+T476965,DUI
+T476966,Assault
+T476967,Offenses against Public Order
+T476968,Transportation Violations
+T476969,Failure to Appear
+T476970,Criminal Trespass and Burglary
+T476971,Theft
+T476972,DUI
+T476973,Drug Offenses
+T476974,Criminal Damage
+T476976,Assault
+T476977,Weapons and Explosives
+T476979,Sex Crimes
+T476980,Drug Offenses
+T476981,Robbery
+T476989,Drug Offenses
+T476990,Drug Offenses
+T476991,Drug Offenses
+T476992,DUI
+T476994,DUI
+T476996,Failure to Appear
+T476998,Criminal Trespass and Burglary
+T476999,Offenses against Public Order
+T477001,Theft
+T477002,Sex Crimes
+T477004,Criminal Trespass and Burglary
+T477005,Drug Offenses
+T477006,Drug Offenses
+T477008,Criminal Trespass and Burglary
+T477009,Transportation Violations
+T477010,Sex Crimes
+T477011,Forgery
+T477017,Transportation Violations
+T477023,Assault
+T477025,Theft
+T477026,Interfere with Judicial Process
+T477027,Criminal Trespass and Burglary
+T477029,Theft
+T477030,Drug Offenses
+T477031,Theft
+T477035,Theft
+T477036,Homicide
+T477038,Criminal Trespass and Burglary
+T477039,Criminal Trespass and Burglary
+T477040,Criminal Trespass and Burglary
+T477042,Criminal Trespass and Burglary
+T477043,DUI
+T477044,Drug Offenses
+T477047,Offenses against Public Order
+T477053,Drug Offenses
+T477056,Criminal Trespass and Burglary
+T477057,Theft
+T477058,DUI
+T477059,Forgery
+T477060,Theft
+T477061,Theft
+T477063,Interfere with Judicial Process
+T477064,Assault
+T477065,Criminal Damage
+T477066,Assault
+T477068,Assault
+T477069,Criminal Trespass and Burglary
+T477072,Homicide
+T477073,Criminal Trespass and Burglary
+T477075,Theft
+T477076,Assault
+T477077,Theft
+T477079,Interfere with Judicial Process
+T477080,DUI
+T477081,Theft
+T477084,Criminal Trespass and Burglary
+T477085,Criminal Trespass and Burglary
+T477086,Theft
+T477087,Criminal Trespass and Burglary
+T477088,Drug Offenses
+T477094,Criminal Trespass and Burglary
+T477095,Drug Offenses
+T477096,Criminal Trespass and Burglary
+T477098,Transportation Violations
+T477099,Assault
+T477100,Assault
+T477101,Drug Offenses
+T477102,Theft
+T477103,Criminal Trespass and Burglary
+T477104,Theft
+T477106,Theft
+T477109,Assault
+T477110,Theft
+T477111,Assault
+T477113,DUI
+T477115,Drug Offenses
+T477117,Drug Offenses
+T477119,Assault
+T477120,Fraud
+T477121,Theft
+T477122,Transportation Violations
+T477123,Transportation Violations
+T477125,Drug Offenses
+T477128,Drug Offenses
+T477129,Drug Offenses
+T477130,Offenses against Public Order
+T477131,Criminal Damage
+T477132,Assault
+T477135,Fraud
+T477136,Criminal Trespass and Burglary
+T477137,Theft
+T477141,Criminal Trespass and Burglary
+T477142,Criminal Trespass and Burglary
+T477144,Theft
+T477146,Drug Offenses
+T477147,Criminal Trespass and Burglary
+T477149,Fraud
+T477150,Weapons and Explosives
+T477152,Transportation Violations
+T477154,Assault
+T477155,Assault
+T477157,Criminal Damage
+T477158,Drug Offenses
+T477159,Drug Offenses
+T477161,Transportation Violations
+T477162,Criminal Trespass and Burglary
+T477163,Drug Offenses
+T477164,Assault
+T477165,Transportation Violations
+T477167,Drug Offenses
+T477168,Assault
+T477169,Transportation Violations
+T477171,Assault
+T477174,Drug Offenses
+T477176,Theft
+T477177,Assault
+T477178,Transportation Violations
+T477179,Theft
+T477184,Theft
+T477186,Criminal Trespass and Burglary
+T477187,Drug Offenses
+T477188,Transportation Violations
+T476697,Criminal Trespass and Burglary
+T476699,Assault
+T476700,Drug Offenses
+T476701,Assault
+T476703,Offenses against Public Order
+T476705,Criminal Trespass and Burglary
+T476706,Assault
+T476707,Transportation Violations
+T476708,DUI
+T476709,Assault
+T476710,Assault
+T476711,Assault
+T476712,Offenses against Public Order
+T476713,Assault
+T476714,DUI
+T476715,Offenses against Public Order
+T476716,Assault
+T476717,Assault
+T476718,Criminal Trespass and Burglary
+T476719,Fraud
+T476720,Failure to Appear
+T476721,Theft
+T476722,Drug Offenses
+T476723,Interfere with Judicial Process
+T476724,Criminal Trespass and Burglary
+T476725,Transportation Violations
+T476726,Criminal Damage
+T476727,Interfere with Judicial Process
+T476728,Drug Offenses
+T476729,Assault
+T476730,Assault
+T476731,Transportation Violations
+T476732,Transportation Violations
+T476733,DUI
+T476734,Weapons and Explosives
+T476736,Drug Offenses
+T476737,Interfere with Judicial Process
+T476738,Criminal Damage
+T476740,Theft
+T476741,Criminal Damage
+T476742,Weapons and Explosives
+T476744,Criminal Trespass and Burglary
+T476745,Transportation Violations
+T476746,Offenses against Public Order
+T476747,Assault
+T476748,Assault
+T476749,Theft
+T476751,Assault
+T476752,Drug Offenses
+T476753,DUI
+T476754,DUI
+T476755,Failure to Appear
+T476756,Transportation Violations
+T476757,Weapons and Explosives
+T476758,Assault
+T476759,Assault
+T476760,Drug Offenses
+T476761,Interfere with Judicial Process
+T476762,Drug Offenses
+T476763,Drug Offenses
+T476764,Drug Offenses
+T476765,Drug Offenses
+T476767,Assault
+T476768,Assault
+T476770,Assault
+T476771,Weapons and Explosives
+T476773,Transportation Violations
+T476774,Assault
+T476782,Assault
+T476784,Drug Offenses
+T476785,Drug Offenses
+T476788,Drug Offenses
+T476789,Theft
+T476790,Theft
+T476793,Offenses against Public Order
+T476794,Criminal Trespass and Burglary
+T476797,Transportation Violations
+T476798,Drug Offenses
+T476799,Drug Offenses
+T476800,DUI
+T476801,Transportation Violations
+T476804,DUI
+T476807,Drug Offenses
+T476808,Drug Offenses
+T476809,Transportation Violations
+T476810,Weapons and Explosives
+T476811,Offenses against Public Order
+T476812,Drug Offenses
+T476813,Assault
+T476814,Assault
+T476816,Sex Crimes
+T476817,Transportation Violations
+T476818,Theft
+T476819,DUI
+T476823,Transportation Violations
+T476826,Criminal Damage
+T476827,Criminal Trespass and Burglary
+T476828,Drug Offenses
+T476829,Offenses against Public Order
+T476833,Failure to Appear
+T476834,Criminal Trespass and Burglary
+T476835,Transportation Violations
+T476836,Assault
+T476837,Drug Offenses
+T476838,Drug Offenses
+T476839,Theft
+T476840,Assault
+T476841,Assault
+T476842,Failure to Appear
+T476843,Assault
+T476846,Theft
+T476848,Drug Offenses
+T476850,Offenses against Public Order
+T476851,Criminal Damage
+T476852,Drug Offenses
+T476854,Assault
+T476855,DUI
+T476857,Criminal Trespass and Burglary
+T476858,Assault
+T476859,Assault
+T476860,DUI
+T476861,Criminal Damage
+T476862,Failure to Appear
+T476865,Assault
+T476867,Drug Offenses
+T476872,Theft
+T476873,Criminal Trespass and Burglary
+T476875,Assault
+T476876,Transportation Violations
+T476877,Assault
+T476878,Theft
+T476879,Drug Offenses
+T476880,Interfere with Judicial Process
+T476881,Drug Offenses
+T476882,Criminal Trespass and Burglary
+T476883,Drug Offenses
+T476884,DUI
+T476885,Assault
+T476887,Crimes Against Children
+T476890,Failure to Appear
+T476892,Transportation Violations
+T476893,Theft
+T476895,Failure to Appear
+T476896,DUI
+T476897,Transportation Violations
+T476899,Criminal Trespass and Burglary
+T476900,Drug Offenses
+T476901,Offenses against Public Order
+T476902,Transportation Violations
+T476903,Assault
+T476905,Offenses against Public Order
+T476907,Drug Offenses
+T476908,Criminal Trespass and Burglary
+T476909,Criminal Trespass and Burglary
+T476911,Criminal Damage
+T464234,Transportation Violations
+T464235,Drug Offenses
+T464236,Drug Offenses
+T464237,Offenses against Public Order
+T464238,Criminal Trespass and Burglary
+T464239,Criminal Damage
+T464241,Interfere with Judicial Process
+T464242,DUI
+T464243,Criminal Damage
+T464244,Transportation Violations
+T464245,Transportation Violations
+T464247,Interfere with Judicial Process
+T464248,Theft
+T464249,DUI
+T464250,Criminal Trespass and Burglary
+T464251,Assault
+T464252,Theft
+T464253,Interfere with Judicial Process
+T464254,Drug Offenses
+T464255,Transportation Violations
+T464256,Criminal Trespass and Burglary
+T464257,Theft
+T464258,Criminal Trespass and Burglary
+T464260,Drug Offenses
+T464261,Assault
+T464263,Transportation Violations
+T464264,Drug Offenses
+T464265,Transportation Violations
+T464266,Assault
+T464267,Offenses against Public Order
+T464268,Assault
+T464269,Criminal Trespass and Burglary
+T464270,Criminal Trespass and Burglary
+T464271,Criminal Trespass and Burglary
+T464272,Assault
+T464273,Offenses against Public Order
+T464275,Weapons and Explosives
+T464276,DUI
+T464277,Assault
+T464278,Transportation Violations
+T464279,Assault
+T464280,Transportation Violations
+T464281,Drug Offenses
+T464282,DUI
+T464283,Transportation Violations
+T464284,Criminal Trespass and Burglary
+T464286,Criminal Trespass and Burglary
+T464287,Assault
+T464288,Drug Offenses
+T464289,Criminal Trespass and Burglary
+T464290,Offenses against Public Order
+T464291,Criminal Trespass and Burglary
+T464292,Drug Offenses
+T464293,Criminal Trespass and Burglary
+T464295,Transportation Violations
+T464297,Drug Offenses
+T464298,Criminal Damage
+T464299,Offenses against Public Order
+T464300,Criminal Trespass and Burglary
+T464301,Theft
+T464302,Theft
+T464303,Theft
+T464304,Offenses against Public Order
+T464305,Assault
+T464306,Criminal Trespass and Burglary
+T464307,Offenses against Public Order
+T464308,Transportation Violations
+T464309,Theft
+T464312,Transportation Violations
+T464313,Drug Offenses
+T464314,DUI
+T464315,Drug Offenses
+T464316,Criminal Trespass and Burglary
+T464318,DUI
+T464319,Drug Offenses
+T464322,Drug Offenses
+T464326,Criminal Trespass and Burglary
+T464327,Assault
+T464328,Assault
+T464329,Drug Offenses
+T464331,Criminal Trespass and Burglary
+T464333,Assault
+T464334,Offenses against Public Order
+T464337,Criminal Trespass and Burglary
+T464338,Criminal Trespass and Burglary
+T464339,Transportation Violations
+T464341,Criminal Trespass and Burglary
+T464342,Drug Offenses
+T464344,Assault
+T464345,DUI
+T464346,Drug Offenses
+T464347,Drug Offenses
+T464348,Assault
+T464349,Theft
+T464350,DUI
+T464351,Transportation Violations
+T464352,Sex Crimes
+T464353,Transportation Violations
+T464354,Transportation Violations
+T464355,Drug Offenses
+T464357,Theft
+T464358,Forgery
+T464360,Theft
+T464362,Transportation Violations
+T464363,Drug Offenses
+T464365,Weapons and Explosives
+T464366,Failure to Appear
+T464369,Weapons and Explosives
+T464371,Transportation Violations
+T464374,Criminal Trespass and Burglary
+T464375,Forgery
+T464376,Failure to Appear
+T464378,Criminal Trespass and Burglary
+T464379,Criminal Trespass and Burglary
+T464380,Drug Offenses
+T464381,Drug Offenses
+T464384,Criminal Trespass and Burglary
+T464385,Assault
+T464387,Criminal Trespass and Burglary
+T464389,Assault
+T464390,Criminal Trespass and Burglary
+T464391,Assault
+T464392,Assault
+T464393,Drug Offenses
+T464395,Criminal Trespass and Burglary
+T464396,Drug Offenses
+T464397,Theft
+T464399,Drug Offenses
+T464400,Criminal Trespass and Burglary
+T464401,Criminal Damage
+T464403,Assault
+T464406,Failure to Appear
+T464407,Robbery
+T464408,Theft
+T464409,Criminal Trespass and Burglary
+T464410,Interfere with Judicial Process
+T464411,Fraud
+T464412,Criminal Trespass and Burglary
+T464414,Drug Offenses
+T464415,Drug Offenses
+T464417,Transportation Violations
+T464418,Transportation Violations
+T464420,Theft
+T464421,Theft
+T464422,Criminal Damage
+T464423,Assault
+T464424,DUI
+T464425,Assault
+T464426,Transportation Violations
+T464427,Criminal Trespass and Burglary
+T464428,Offenses against Public Order
+T464430,Interfere with Judicial Process
+T464431,Transportation Violations
+T464433,Criminal Damage
+T464436,Drug Offenses
+T464437,Criminal Trespass and Burglary
+T464438,Assault
+T464440,Theft
+T464441,Drug Offenses
+T464444,Interfere with Judicial Process
+T464445,Drug Offenses
+T464447,Assault
+T464448,Weapons and Explosives
+T464449,Drug Offenses
+T464450,Criminal Trespass and Burglary
+T464454,Theft
+T464455,Interfere with Judicial Process
+T464459,Assault
+T464461,Drug Offenses
+T464462,Drug Offenses
+T464463,Drug Offenses
+T464465,Criminal Damage
+T464466,Criminal Trespass and Burglary
+T464467,Criminal Trespass and Burglary
+T464470,Criminal Trespass and Burglary
+T464472,Theft
+T464473,Criminal Trespass and Burglary
+T464475,Criminal Trespass and Burglary
+T464477,Criminal Trespass and Burglary
+T464478,Transportation Violations
+T464479,Theft
+T464480,Assault
+T464481,Failure to Appear
+T464482,Forgery
+T464483,Theft
+T464485,Fraud
+T464486,Drug Offenses
+T464487,Drug Offenses
+T464488,Theft
+T464490,Assault
+T464491,Interfere with Judicial Process
+T464492,Theft
+T464493,Criminal Damage
+T464495,Transportation Violations
+T463966,Assault
+T463967,Weapons and Explosives
+T463998,Transportation Violations
+T463999,Theft
+T464000,Criminal Damage
+T464002,Criminal Trespass and Burglary
+T464003,Criminal Trespass and Burglary
+T464004,Criminal Trespass and Burglary
+T464006,Criminal Trespass and Burglary
+T464009,Theft
+T464010,Drug Offenses
+T464011,Transportation Violations
+T464012,Assault
+T464013,Criminal Trespass and Burglary
+T464014,Criminal Trespass and Burglary
+T464015,Assault
+T464018,Theft
+T464020,Offenses against Public Order
+T464021,Transportation Violations
+T464022,Transportation Violations
+T464023,Weapons and Explosives
+T464024,Assault
+T464025,Failure to Appear
+T464027,DUI
+T464028,Assault
+T464029,Assault
+T464030,Criminal Trespass and Burglary
+T464032,Transportation Violations
+T464033,Criminal Trespass and Burglary
+T464034,DUI
+T464035,DUI
+T464036,Drug Offenses
+T464037,Transportation Violations
+T464040,Assault
+T464041,DUI
+T464042,Drug Offenses
+T464043,Offenses against Public Order
+T464044,DUI
+T464045,Assault
+T464046,Drug Offenses
+T464047,Drug Offenses
+T464049,Criminal Damage
+T464051,Drug Offenses
+T464052,Assault
+T464053,Sex Crimes
+T464054,Drug Offenses
+T464055,Drug Offenses
+T464056,Assault
+T464058,Interfere with Judicial Process
+T464059,Theft
+T464060,Interfere with Judicial Process
+T464062,Assault
+T464063,DUI
+T464066,Drug Offenses
+T464069,Theft
+T464070,Theft
+T464071,Theft
+T464072,Criminal Trespass and Burglary
+T464073,Transportation Violations
+T464074,Theft
+T464075,Transportation Violations
+T464076,Weapons and Explosives
+T464077,Assault
+T464079,Theft
+T464081,DUI
+T464083,Assault
+T464084,Drug Offenses
+T464085,Drug Offenses
+T464086,Drug Offenses
+T464087,Weapons and Explosives
+T464088,Drug Offenses
+T464089,Criminal Damage
+T464091,Drug Offenses
+T464092,DUI
+T464093,Homicide
+T464095,Criminal Damage
+T464096,Theft
+T464097,Criminal Trespass and Burglary
+T464098,Drug Offenses
+T464099,Drug Offenses
+T464100,Theft
+T464101,Assault
+T464104,Offenses against Public Order
+T464105,Drug Offenses
+T464107,DUI
+T464108,Criminal Trespass and Burglary
+T464109,DUI
+T464112,Assault
+T464118,Criminal Trespass and Burglary
+T464119,Criminal Trespass and Burglary
+T464121,Theft
+T464122,DUI
+T464123,Assault
+T464124,Drug Offenses
+T464126,Drug Offenses
+T464128,Criminal Trespass and Burglary
+T464135,Drug Offenses
+T464136,Transportation Violations
+T464137,Theft
+T464138,Criminal Trespass and Burglary
+T464139,Offenses against Public Order
+T464141,Theft
+T464144,Assault
+T464145,Assault
+T464146,Drug Offenses
+T464149,Theft
+T464150,Criminal Trespass and Burglary
+T464151,Assault
+T464152,Drug Offenses
+T464153,Assault
+T464154,Assault
+T464155,Assault
+T464158,Criminal Damage
+T464159,Transportation Violations
+T464160,Transportation Violations
+T464163,ANIMAL CRUELTY
+T464164,Drug Offenses
+T464165,Assault
+T464166,Transportation Violations
+T464167,Transportation Violations
+T464168,Drug Offenses
+T464169,Criminal Trespass and Burglary
+T464171,Theft
+T464172,Drug Offenses
+T464173,Theft
+T464174,Drug Offenses
+T464175,Drug Offenses
+T464178,Drug Offenses
+T464179,DUI
+T464180,Criminal Trespass and Burglary
+T464183,DUI
+T464184,Drug Offenses
+T464185,Drug Offenses
+T464187,Theft
+T464188,Assault
+T464189,Criminal Trespass and Burglary
+T464192,Criminal Trespass and Burglary
+T464193,Weapons and Explosives
+T464194,Theft
+T464196,Drug Offenses
+T464197,Weapons and Explosives
+T464199,Assault
+T464200,Criminal Trespass and Burglary
+T464201,Criminal Trespass and Burglary
+T464205,Criminal Trespass and Burglary
+T464208,Assault
+T464209,Drug Offenses
+T464211,Transportation Violations
+T464212,Criminal Damage
+T464213,Criminal Trespass and Burglary
+T464220,Assault
+T464221,DUI
+T464222,Theft
+T464223,Assault
+T464225,Transportation Violations
+T464228,Criminal Trespass and Burglary
+T464230,Criminal Trespass and Burglary
+T464231,Drug Offenses
+T464232,Assault
+T464233,Drug Offenses
+T472994,Offenses against Public Order
+T472995,Theft
+T472997,Family Offenses
+T472998,Assault
+T472999,Assault
+T473001,Theft
+T473004,Assault
+T473005,Theft
+T473006,Drug Offenses
+T473007,Drug Offenses
+T473008,Criminal Damage
+T473010,Weapons and Explosives
+T473011,Transportation Violations
+T473012,Criminal Damage
+T473015,Theft
+T473016,Criminal Damage
+T473018,Criminal Trespass and Burglary
+T473019,Assault
+T473020,Assault
+T473023,Drug Offenses
+T473025,Criminal Damage
+T473026,Theft
+T473028,Assault
+T473029,Assault
+T473030,Assault
+T473031,Assault
+T473033,Criminal Trespass and Burglary
+T473034,Theft
+T473035,Assault
+T473036,Drug Offenses
+T473037,DUI
+T473038,Drug Offenses
+T473039,Weapons and Explosives
+T473040,Assault
+T473042,Criminal Trespass and Burglary
+T473044,Theft
+T473046,Assault
+T473047,Assault
+T473048,Assault
+T473049,Assault
+T473050,Assault
+T473051,Drug Offenses
+T473052,Criminal Trespass and Burglary
+T473053,DUI
+T473054,Assault
+T473055,Assault
+T473056,Assault
+T473057,Robbery
+T473059,Weapons and Explosives
+T473060,Drug Offenses
+T473061,Weapons and Explosives
+T473063,Weapons and Explosives
+T473066,Transportation Violations
+T473067,Theft
+T473069,Criminal Damage
+T473071,Assault
+T473074,Criminal Trespass and Burglary
+T473075,Criminal Damage
+T473076,Transportation Violations
+T473078,Theft
+T473079,Failure to Appear
+T473080,Assault
+T473082,Drug Offenses
+T473083,Theft
+T473086,Transportation Violations
+T473087,Drug Offenses
+T473092,Assault
+T472986,Assault
+T472987,Criminal Trespass and Burglary
+T472993,Criminal Trespass and Burglary
+T472989,Drug Offenses
+T472757,Theft
+T472759,Criminal Damage
+T472760,Theft
+T472761,Theft
+T472763,Theft
+T472764,Failure to Appear
+T472768,Criminal Trespass and Burglary
+T472769,Transportation Violations
+T472771,Criminal Trespass and Burglary
+T472774,Assault
+T472775,Criminal Trespass and Burglary
+T472777,DUI
+T472778,Assault
+T472779,Assault
+T472781,Forgery
+T472782,Failure to Appear
+T472783,Assault
+T472784,Assault
+T472785,Drug Offenses
+T472786,Theft
+T472787,Assault
+T472788,Criminal Damage
+T472789,Transportation Violations
+T472790,Assault
+T472791,Theft
+T472792,Assault
+T472793,Assault
+T472794,Drug Offenses
+T472795,Assault
+T472796,Theft
+T472797,Criminal Damage
+T472798,Assault
+T472799,Crimes Against Children
+T472800,Drug Offenses
+T472801,Drug Offenses
+T472803,Drug Offenses
+T472805,Drug Offenses
+T472806,Drug Offenses
+T472807,Transportation Violations
+T472809,Drug Offenses
+T472810,Transportation Violations
+T472811,Weapons and Explosives
+T472813,Drug Offenses
+T472815,Transportation Violations
+T472816,Assault
+T472818,Criminal Damage
+T472820,Drug Offenses
+T472822,Failure to Appear
+T472823,Assault
+T472825,Criminal Damage
+T472826,Interfere with Judicial Process
+T472829,Theft
+T472830,Assault
+T472831,Assault
+T472832,Theft
+T472833,Drug Offenses
+T472834,Assault
+T472835,Drug Offenses
+T472837,Weapons and Explosives
+T472839,Assault
+T472841,Drug Offenses
+T472842,DUI
+T472843,Transportation Violations
+T472845,Assault
+T472847,Drug Offenses
+T472848,Drug Offenses
+T472850,Failure to Appear
+T472851,Theft
+T472853,Theft
+T472854,Assault
+T472855,Criminal Trespass and Burglary
+T472856,Assault
+T472857,DUI
+T472860,Theft
+T472861,Drug Offenses
+T472862,Drug Offenses
+T472863,Assault
+T472866,Offenses against Public Order
+T472867,DUI
+T472868,Forgery
+T472869,Assault
+T472870,DUI
+T472872,Assault
+T472873,Drug Offenses
+T472874,Transportation Violations
+T472875,Drug Offenses
+T472876,Criminal Trespass and Burglary
+T472877,Drug Offenses
+T472879,Drug Offenses
+T472883,Drug Offenses
+T472884,Interfere with Judicial Process
+T472887,DUI
+T472889,Assault
+T472891,Criminal Trespass and Burglary
+T472892,Drug Offenses
+T472893,Drug Offenses
+T472895,Transportation Violations
+T472896,Assault
+T472897,Theft
+T472898,Crimes Against Children
+T472900,Drug Offenses
+T472901,DUI
+T472904,Transportation Violations
+T472905,Drug Offenses
+T472906,Criminal Damage
+T472908,Criminal Damage
+T472909,Transportation Violations
+T472911,Assault
+T472912,Drug Offenses
+T472913,Weapons and Explosives
+T472914,Assault
+T472916,Offenses against Public Order
+T472917,Offenses against Public Order
+T472918,Assault
+T472919,Theft
+T472921,Theft
+T472923,Assault
+T472924,DUI
+T472925,Assault
+T472926,Assault
+T472927,Criminal Trespass and Burglary
+T472928,Drug Offenses
+T472930,Offenses against Public Order
+T472931,Assault
+T472932,Sex Crimes
+T472933,Drug Offenses
+T472934,Weapons and Explosives
+T472935,Theft
+T472936,Theft
+T472937,Drug Offenses
+T472938,Criminal Damage
+T472939,Criminal Trespass and Burglary
+T472940,DUI
+T472941,Offenses against Public Order
+T472942,Assault
+T472943,Theft
+T472944,Assault
+T472947,Criminal Trespass and Burglary
+T472949,Weapons and Explosives
+T472950,Drug Offenses
+T472951,Transportation Violations
+T472952,Assault
+T472956,Criminal Trespass and Burglary
+T472957,Drug Offenses
+T472958,Assault
+T472959,Failure to Appear
+T472960,Criminal Trespass and Burglary
+T472961,Theft
+T472965,Theft
+T472969,Assault
+T472970,Assault
+T472971,Assault
+T472972,Criminal Trespass and Burglary
+T472973,Assault
+T472975,Criminal Damage
+T472976,Transportation Violations
+T472977,DUI
+T472978,Assault
+T472979,Assault
+T472980,Assault
+T472983,Criminal Trespass and Burglary
+T472984,Assault
+T472758,Failure to Appear
+T472447,Drug Offenses
+T472449,Criminal Trespass and Burglary
+T472460,Assault
+T472461,Theft
+T472464,Assault
+T472465,Theft
+T472467,Forgery
+T472468,Transportation Violations
+T472470,Drug Offenses
+T472471,DUI
+T472473,Offenses against Public Order
+T472474,Failure to Appear
+T472475,Drug Offenses
+T472476,Drug Offenses
+T472478,Criminal Trespass and Burglary
+T472479,Criminal Trespass and Burglary
+T472480,Drug Offenses
+T472481,Transportation Violations
+T472482,DUI
+T472483,Drug Offenses
+T472484,Criminal Damage
+T472485,Forgery
+T472486,Drug Offenses
+T472487,Transportation Violations
+T472488,Drug Offenses
+T472490,Weapons and Explosives
+T472491,Assault
+T472492,Criminal Trespass and Burglary
+T472493,Criminal Trespass and Burglary
+T472494,Assault
+T472495,Failure to Appear
+T472496,Assault
+T472497,Transportation Violations
+T472498,Theft
+T472499,Offenses against Public Order
+T472501,Criminal Trespass and Burglary
+T472503,Theft
+T472504,Obstruction
+T472506,Criminal Trespass and Burglary
+T472508,Criminal Trespass and Burglary
+T472509,Criminal Trespass and Burglary
+T472510,Theft
+T472511,DUI
+T472512,Assault
+T472515,Theft
+T472516,Theft
+T472517,Sex Crimes
+T472521,Drug Offenses
+T472522,Drug Offenses
+T472523,Criminal Trespass and Burglary
+T472525,Forgery
+T472526,Criminal Damage
+T472527,Theft
+T472528,Criminal Trespass and Burglary
+T472529,Drug Offenses
+T472531,Transportation Violations
+T472532,Assault
+T472533,Assault
+T472534,Drug Offenses
+T472535,Drug Offenses
+T472536,Failure to Appear
+T472537,Failure to Appear
+T472541,Weapons and Explosives
+T472542,Transportation Violations
+T472543,Drug Offenses
+T472544,DUI
+T472545,Drug Offenses
+T472546,Failure to Appear
+T472547,Weapons and Explosives
+T472548,Offenses against Public Order
+T472549,DUI
+T472550,Drug Offenses
+T472551,Assault
+T472552,Criminal Damage
+T472553,Criminal Trespass and Burglary
+T472554,Drug Offenses
+T472555,Drug Offenses
+T472556,Criminal Trespass and Burglary
+T472557,Assault
+T472558,Criminal Trespass and Burglary
+T472559,Failure to Appear
+T472560,Drug Offenses
+T472561,DUI
+T472563,Transportation Violations
+T472564,Weapons and Explosives
+T472565,DUI
+T472567,Transportation Violations
+T472568,DUI
+T472570,Criminal Trespass and Burglary
+T472571,Criminal Damage
+T472572,Sex Crimes
+T472573,Homicide
+T472574,Assault
+T472575,Robbery
+T472576,Criminal Trespass and Burglary
+T472578,Transportation Violations
+T472580,Theft
+T472582,Assault
+T472584,Interfere with Judicial Process
+T472587,Assault
+T472590,Assault
+T472592,Transportation Violations
+T472594,Drug Offenses
+T472596,Weapons and Explosives
+T472601,Homicide
+T472604,Interfere with Judicial Process
+T472612,Drug Offenses
+T472613,Drug Offenses
+T472614,Failure to Appear
+T472615,Theft
+T472616,Drug Offenses
+T472619,Transportation Violations
+T472620,Criminal Trespass and Burglary
+T472621,Drug Offenses
+T472622,Drug Offenses
+T472623,Drug Offenses
+T472624,Criminal Trespass and Burglary
+T472625,Criminal Damage
+T472626,Assault
+T472627,Drug Offenses
+T472628,Drug Offenses
+T472629,Criminal Trespass and Burglary
+T472630,Assault
+T472635,Assault
+T472636,Criminal Trespass and Burglary
+T472637,Drug Offenses
+T472642,Assault
+T472644,Theft
+T472645,Criminal Damage
+T472646,Crimes Against Children
+T472647,Transportation Violations
+T472648,Theft
+T472649,Transportation Violations
+T472650,Offenses against Public Order
+T472651,Offenses against Public Order
+T472652,DUI
+T472653,Drug Offenses
+T472655,Criminal Damage
+T472656,Assault
+T472658,Theft
+T472659,Criminal Trespass and Burglary
+T472660,Theft
+T472661,Failure to Appear
+T472662,Weapons and Explosives
+T472663,Assault
+T472664,Criminal Trespass and Burglary
+T472665,Criminal Trespass and Burglary
+T472667,Criminal Trespass and Burglary
+T472668,Theft
+T472669,Theft
+T472670,Criminal Trespass and Burglary
+T472672,Assault
+T472674,Criminal Damage
+T472675,Failure to Appear
+T472676,Criminal Trespass and Burglary
+T472677,Criminal Trespass and Burglary
+T472678,Theft
+T472680,Forgery
+T472681,Assault
+T472684,Assault
+T472685,Theft
+T472686,Criminal Trespass and Burglary
+T472687,Theft
+T472688,ANIMAL CRUELTY
+T472689,Theft
+T472692,Homicide
+T472693,Assault
+T472694,Criminal Trespass and Burglary
+T472698,Forgery
+T472699,Criminal Damage
+T472701,Criminal Trespass and Burglary
+T472702,Assault
+T472703,Assault
+T472704,Assault
+T472706,Criminal Trespass and Burglary
+T472707,Criminal Trespass and Burglary
+T472708,Assault
+T472709,Drug Offenses
+T472710,Offenses against Public Order
+T472711,Offenses against Public Order
+T472712,Interfere with Judicial Process
+T472713,Drug Offenses
+T472714,Offenses against Public Order
+T472715,Drug Offenses
+T472716,Kidnapping
+T472717,Drug Offenses
+T472718,Criminal Trespass and Burglary
+T472720,Drug Offenses
+T472725,Theft
+T472726,Criminal Trespass and Burglary
+T472727,Criminal Trespass and Burglary
+T472733,Criminal Trespass and Burglary
+T472735,Drug Offenses
+T472737,Drug Offenses
+T472738,Drug Offenses
+T472740,DUI
+T472741,Assault
+T472745,Drug Offenses
+T472746,Criminal Trespass and Burglary
+T472747,Drug Offenses
+T472748,Drug Offenses
+T472752,DUI
+T472754,Criminal Trespass and Burglary
+T472755,Assault
+T472756,Criminal Trespass and Burglary
+T485015,Drug Offenses
+T485017,Drug Offenses
+T485018,Transportation Violations
+T485021,Drug Offenses
+T485022,Drug Offenses
+T485023,Theft
+T485024,Theft
+T485025,Drug Offenses
+T485026,Theft
+T485027,Theft
+T485028,Drug Offenses
+T485029,Theft
+T485030,Drug Offenses
+T485031,Drug Offenses
+T485032,Drug Offenses
+T485034,Drug Offenses
+T485035,Theft
+T485036,Interfere with Judicial Process
+T485037,Transportation Violations
+T485039,Theft
+T485040,Sex Crimes
+T485042,Drug Offenses
+T485043,Theft
+T485044,Theft
+T485045,Theft
+T485047,Assault
+T485048,Failure to Appear
+T485049,DUI
+T485050,Drug Offenses
+T485051,Assault
+T485052,Criminal Trespass and Burglary
+T485053,Theft
+T485054,Assault
+T485055,Interfere with Judicial Process
+T485056,Assault
+T485059,Theft
+T485060,Assault
+T485061,Transportation Violations
+T485062,Drug Offenses
+T485065,Weapons and Explosives
+T485066,DUI
+T485067,Criminal Trespass and Burglary
+T485068,Transportation Violations
+T485070,DUI
+T485071,Criminal Trespass and Burglary
+T485072,Transportation Violations
+T485073,Theft
+T485076,Assault
+T485078,Theft
+T485079,Drug Offenses
+T485080,Kidnapping
+T485081,Drug Offenses
+T485082,Criminal Trespass and Burglary
+T485083,Criminal Trespass and Burglary
+T485085,Interfere with Judicial Process
+T485087,Transportation Violations
+T485090,Drug Offenses
+T485095,Criminal Trespass and Burglary
+T485098,Theft
+T485099,Theft
+T485103,Failure to Appear
+T485104,Transportation Violations
+T485106,Theft
+T485107,Criminal Trespass and Burglary
+T485109,Criminal Trespass and Burglary
+T485112,Drug Offenses
+T485115,Drug Offenses
+T485116,Transportation Violations
+T485117,Transportation Violations
+T485118,Criminal Trespass and Burglary
+T485119,Criminal Trespass and Burglary
+T485120,Transportation Violations
+T485121,DUI
+T485122,DUI
+T485123,Assault
+T485125,Criminal Damage
+T485126,Drug Offenses
+T485128,Drug Offenses
+T485131,Criminal Trespass and Burglary
+T485132,Theft
+T485133,Fraud
+T485135,Assault
+T485136,Drug Offenses
+T485137,Offenses against Public Order
+T485138,Robbery
+T485141,Assault
+T485142,Crimes Against Children
+T485143,Interfere with Judicial Process
+T485144,Transportation Violations
+T485145,Theft
+T485146,Offenses against Public Order
+T485147,Criminal Trespass and Burglary
+T485148,DUI
+T485150,Drug Offenses
+T485151,Criminal Trespass and Burglary
+T485152,Weapons and Explosives
+T485153,Criminal Trespass and Burglary
+T485154,Weapons and Explosives
+T485155,DUI
+T485158,Theft
+T485160,Transportation Violations
+T485165,Drug Offenses
+T485166,Theft
+T485167,Criminal Trespass and Burglary
+T485169,Transportation Violations
+T485170,Fraud
+T485172,Theft
+T485173,Assault
+T485174,Transportation Violations
+T485175,Offenses against Public Order
+T485176,Theft
+T485177,Criminal Trespass and Burglary
+T485179,Theft
+T485180,Theft
+T485181,Drug Offenses
+T485182,Drug Offenses
+T485183,Drug Offenses
+T485186,Criminal Trespass and Burglary
+T485187,Offenses against Public Order
+T485188,Assault
+T485190,Fraud
+T485192,Theft
+T485193,Transportation Violations
+T485194,Assault
+T485196,Theft
+T485197,Theft
+T485198,Theft
+T485199,Criminal Trespass and Burglary
+T485201,Forgery
+T485202,Transportation Violations
+T485203,Drug Offenses
+T485204,Drug Offenses
+T485205,Theft
+T485206,DUI
+T485209,Drug Offenses
+T485210,Theft
+T485211,Drug Offenses
+T485212,Drug Offenses
+T485213,Crimes Against Children
+T485214,Criminal Trespass and Burglary
+T485215,Failure to Appear
+T485216,Offenses against Public Order
+T485217,Theft
+T485220,Failure to Appear
+T485222,Assault
+T485223,Eavesdropping and Communication
+T485224,Assault
+T485225,Forgery
+T485228,Drug Offenses
+T485229,Drug Offenses
+T485230,Theft
+T485235,Transportation Violations
+T485237,Transportation Violations
+T485238,Transportation Violations
+T485240,Theft
+T485241,Criminal Trespass and Burglary
+T485242,Assault
+T485245,Transportation Violations
+T485247,Assault
+T485251,Drug Offenses
+T485254,Assault
+T485259,Forgery
+T485261,Criminal Trespass and Burglary
+T485262,Criminal Trespass and Burglary
+T485263,Assault
+T485264,Transportation Violations
+T485266,Drug Offenses
+T485267,Drug Offenses
+T485269,Transportation Violations
+T485270,Theft
+T485272,Fraud
+T485273,Forgery
+T485274,Drug Offenses
+T485276,Drug Offenses
+T485277,Drug Offenses
+T485278,Criminal Trespass and Burglary
+T485279,Criminal Trespass and Burglary
+T485280,Drug Offenses
+T485281,Drug Offenses
+T485283,Transportation Violations
+T485288,Assault
+T485292,Theft
+T485295,Criminal Trespass and Burglary
+T485297,Criminal Trespass and Burglary
+T485300,Assault
+T485302,DUI
+T485303,Theft
+T485306,Drug Offenses
+T485312,Theft
+T484987,Theft
+T484993,Theft
+T484995,Criminal Trespass and Burglary
+T484998,Interfere with Judicial Process
+T485000,Drug Offenses
+T485002,Assault
+T485007,Sex Crimes
+T485008,Sex Crimes
+T485009,Crimes Against Children
+T485010,Drug Offenses
+T485011,Crimes Against Children
+T485003,Offenses against Public Order
+T485004,Assault
+T485005,Drug Offenses
+T485006,Drug Offenses
+T485001,Assault
+T484999,Criminal Trespass and Burglary
+T484996,Drug Offenses
+T484997,Weapons and Explosives
+T484994,Transportation Violations
+T484988,Drug Offenses
+T484989,Drug Offenses
+T484990,Weapons and Explosives
+T484991,Criminal Trespass and Burglary
+T484992,Assault
+T484746,Criminal Trespass and Burglary
+T484747,Criminal Trespass and Burglary
+T484751,Theft
+T484757,Theft
+T484758,Assault
+T484759,Assault
+T484761,Theft
+T484762,Drug Offenses
+T484763,Interfere with Judicial Process
+T484765,Assault
+T484766,Transportation Violations
+T484767,Drug Offenses
+T484768,DUI
+T484769,Drug Offenses
+T484770,Assault
+T484771,Assault
+T484772,Assault
+T484773,Assault
+T484774,Transportation Violations
+T484775,Criminal Damage
+T484776,Assault
+T484777,Assault
+T484778,Criminal Trespass and Burglary
+T484779,Assault
+T484780,Drug Offenses
+T484782,Theft
+T484783,Failure to Appear
+T484784,Theft
+T484785,Criminal Trespass and Burglary
+T484786,Criminal Trespass and Burglary
+T484787,DUI
+T484788,Assault
+T484789,Assault
+T484790,Criminal Trespass and Burglary
+T484791,Criminal Trespass and Burglary
+T484793,Criminal Damage
+T484794,Transportation Violations
+T484795,Transportation Violations
+T484796,Theft
+T484797,Criminal Damage
+T484798,Interfere with Judicial Process
+T484799,Criminal Trespass and Burglary
+T484800,Theft
+T484804,Transportation Violations
+T484806,Drug Offenses
+T484807,Drug Offenses
+T484809,Drug Offenses
+T484810,Assault
+T484814,Transportation Violations
+T484815,Transportation Violations
+T484818,Offenses against Public Order
+T484819,County Regulations Violations
+T484820,Offenses against Public Order
+T484821,Assault
+T484822,Criminal Trespass and Burglary
+T484823,Transportation Violations
+T484824,Drug Offenses
+T484825,Transportation Violations
+T484828,Drug Offenses
+T484829,Theft
+T484832,Assault
+T484834,Transportation Violations
+T484835,Criminal Trespass and Burglary
+T484836,Assault
+T484837,Drug Offenses
+T484838,Theft
+T484839,Criminal Trespass and Burglary
+T484840,Criminal Trespass and Burglary
+T484841,Drug Offenses
+T484842,Sex Crimes
+T484844,Theft
+T484845,Transportation Violations
+T484846,Transportation Violations
+T484847,Theft
+T484848,DUI
+T484849,Transportation Violations
+T484850,Criminal Trespass and Burglary
+T484851,Theft
+T484852,Drug Offenses
+T484853,Criminal Trespass and Burglary
+T484854,Assault
+T484855,Criminal Trespass and Burglary
+T484856,Transportation Violations
+T484858,Criminal Trespass and Burglary
+T484859,Drug Offenses
+T484860,Criminal Trespass and Burglary
+T484862,Assault
+T484864,Drug Offenses
+T484865,Assault
+T484866,Drug Offenses
+T484867,Theft
+T484868,Assault
+T484872,DUI
+T484873,Drug Offenses
+T484875,Fraud
+T484877,Drug Offenses
+T484879,DUI
+T484883,DUI
+T484884,DUI
+T484885,Sex Crimes
+T484886,Criminal Trespass and Burglary
+T484888,Criminal Trespass and Burglary
+T484891,Weapons and Explosives
+T484893,Assault
+T484894,Theft
+T484895,Drug Offenses
+T484897,Drug Offenses
+T484898,Drug Offenses
+T484900,Criminal Damage
+T484901,Assault
+T484902,Criminal Trespass and Burglary
+T484903,Theft
+T484904,Theft
+T484905,DUI
+T484906,Assault
+T484907,Theft
+T484908,Theft
+T484909,Theft
+T484910,Offenses against Public Order
+T484911,Theft
+T484912,Drug Offenses
+T484913,Assault
+T484914,Criminal Trespass and Burglary
+T484915,Criminal Trespass and Burglary
+T484916,Drug Offenses
+T484917,Criminal Trespass and Burglary
+T484920,Failure to Appear
+T484921,Robbery
+T484922,Assault
+T484923,Robbery
+T484924,Criminal Trespass and Burglary
+T484926,Drug Offenses
+T484927,Fraud
+T484928,Theft
+T484929,Assault
+T484931,Criminal Trespass and Burglary
+T484933,Drug Offenses
+T484934,Theft
+T484935,Transportation Violations
+T484939,Theft
+T484940,Sex Crimes
+T484941,DUI
+T484942,Criminal Trespass and Burglary
+T484943,Theft
+T484946,Criminal Trespass and Burglary
+T484947,Drug Offenses
+T484948,Assault
+T484949,Offenses against Public Order
+T484950,Transportation Violations
+T484951,Offenses against Public Order
+T484952,Offenses against Public Order
+T484953,Assault
+T484954,Assault
+T484956,Drug Offenses
+T484957,Weapons and Explosives
+T484959,DUI
+T484961,Criminal Trespass and Burglary
+T484962,Drug Offenses
+T484964,Drug Offenses
+T484965,Criminal Trespass and Burglary
+T484966,Theft
+T484971,Drug Offenses
+T484973,Forgery
+T484974,Drug Offenses
+T484975,Criminal Trespass and Burglary
+T484976,Crimes Against Children
+T484977,Fraud
+T484978,Drug Offenses
+T484980,Theft
+T484981,Assault
+T484984,Drug Offenses
+T484985,Criminal Trespass and Burglary
