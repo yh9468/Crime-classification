@@ -35,6 +35,7 @@ if use_cuda and not torch.cuda.is_available():
 
 def main():
     model = Net()
+    best_acc1 = 0
     if use_cuda:
         torch.cuda.set_device(opt.gpuids[0])
         model = nn.DataParallel(model, device_ids=opt.gpuids, output_device=opt.gpuids[0]).cuda()
@@ -43,7 +44,7 @@ def main():
     optimizer = optim.Adam(model.parameters(),lr = 0.0001)
 
     traindir = os.path.join(opt.data, 'train')
-    valdir = os.path.join(opt.data, 'val')
+    valdir = os.path.join(opt.data, 'test')
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                  std=[0.229, 0.224, 0.225])
 

@@ -45,7 +45,7 @@ def readtxt(dirname):
         f = open(full_filename, 'r')
         lines = f.readlines()
         for temp in lines:
-            if(len(temp) < 4):
+            if(len(temp) < 15):
                 continue
             temp = temp.split(',')
             if(temp[2] == "Probation Violation" or temp[2] == "Liquor Violation"
@@ -62,6 +62,39 @@ def writetxt():
         f.write(newstring)
     f.close()
 
-readtxt("dataset/txt")
-search("dataset/test")
+def changedir(str):
+    filepath = "dataset/"+str
+    filelist = os.listdir(filepath)
+    if os.path.isdir("dataset/"+str+ "low"):
+        return
+    else:
+        os.mkdir("dataset/"+str+"/low")
+        os.mkdir("dataset/"+str+"/middle")
+        os.mkdir("dataset/"+str+"/high")
+
+    for dirname in filelist:
+        temp_filelist = os.listdir(filepath +"/"+dirname)
+        if(dirname =="Eavesdropping and Communication" or dirname == "Offenses against Public Order"
+        or dirname == "Transportation Violations" or dirname == "Criminal Damage"
+        or dirname == "Failure to Appear" or dirname == "DUI" or dirname == "Weapons and Explosives"
+        or dirname == "County Regulations Violations" or dirname == "Family Offenses"
+        or dirname == "ANIMAL CRUELTY" or dirname == "Interfere with Judicial Process"):
+            for filename in temp_filelist:
+                shutil.copy(filepath +"/"+dirname + '/' + filename, filepath+'/' + "low" + '/' + filename)
+
+        elif(dirname == "Forgery" or dirname =="Fraud" or dirname == "Robbery" or
+        dirname == "Sex Crimes" or dirname == "Obstruction" or dirname == "Drug Offenses"
+        or dirname == "Theft"):
+            for filename in temp_filelist:
+                shutil.copy(filepath +"/"+dirname + '/' + filename, filepath+'/' + "middle" + '/' + filename)
+
+        else:
+            for filename in temp_filelist:
+                shutil.copy(filepath +"/"+dirname + '/' + filename, filepath+'/' + "high" + '/' + filename)
+
+
+
+changedir("test")
+#readtxt("dataset/txt")
+#search("dataset/test")
 writetxt()
