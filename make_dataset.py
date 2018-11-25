@@ -24,11 +24,11 @@ def search(dirname):
         for temp in arrP:
             if(temp.getid() == filename[:7]):
                 flag = True
-                if(os.path.isdir('dataset/test/'+temp.gethow())):
-                    shutil.copy('dataset/test/'+filename, 'dataset/test/'+temp.gethow()+'/'+filename)
+                if(os.path.isdir('dataset/run/'+temp.gethow())):
+                    shutil.copy('dataset/run/'+filename, 'dataset/run/'+temp.gethow()+'/'+filename)
                 else:
-                    os.mkdir('dataset/test/'+temp.gethow())
-                    shutil.copy('dataset/test/'+filename, 'dataset/test/'+temp.gethow()+'/'+filename)
+                    os.mkdir('dataset/run/'+temp.gethow())
+                    shutil.copy('dataset/run/'+filename, 'dataset/run/'+temp.gethow()+'/'+filename)
 
                 break
         if(flag == False):
@@ -94,7 +94,7 @@ def changedir(str):
 
 
 
-changedir("test")
+changedir("run")
 #readtxt("dataset/txt")
-#search("dataset/test")
+#search("dataset/run")
 writetxt()

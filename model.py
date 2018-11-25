@@ -4,7 +4,7 @@ import torchvision.models
 class Net(nn.Module):
     def __init__(self):
         super(Net, self).__init__()
-        self.layer1 = nn.Linear(1000,1)
+        self.layer1 = nn.Linear(1000,3)
 
         self.net = torchvision.models.alexnet(pretrained=True)
         #for param in self.net.parameters():
