@@ -1,4 +1,5 @@
 from __future__ import print_function, division
+import PIL
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -45,7 +46,7 @@ def main():
         model = nn.DataParallel(model, device_ids=opt.gpuids, output_device=opt.gpuids[0]).cuda()
 
     criterion = nn.CrossEntropyLoss().cuda()
-    optimizer = optim.Adam(model.parameters(),lr = 0.0001)
+    optimizer = optim.Adam(model.parameters(),lr = 0.001)
 
     traindir = os.path.join(opt.data, 'train')
     valdir = os.path.join(opt.data, 'test')
@@ -56,6 +57,8 @@ def main():
     train_dataset = datasets.ImageFolder(
         traindir,
         transforms.Compose([
+        transforms.RandomVerticalFlip(),
+        transforms.RandomRotation(20,resample= PIL.Image.BILINEAR),
         transforms.RandomResizedCrop(224),
         transforms.RandomHorizontalFlip(),
         transforms.ToTensor(),
@@ -66,7 +69,7 @@ def main():
 
     train_loader = torch.utils.data.DataLoader(
         train_dataset, batch_size=32,
-        shuffle=(train_sampler is None),
+        shuffle=True,
         num_workers=opt.workers,
         pin_memory=True,
         sampler=train_sampler)
@@ -85,7 +88,7 @@ def main():
     if opt.evaluate:
         validate(val_loader,model,criterion)
         return
-    for epoch in range(0, opt.epochs):
+    for epoch in range(1, opt.epochs+1):
         adjust_learning_rate(optimizer, epoch)
         train(train_loader, model, criterion, optimizer, epoch)
 
@@ -104,8 +107,6 @@ def train(train_loader, model, criterion, optimizer, epoch):
     batch_time = AverageMeter()
     data_time = AverageMeter()
     losses = AverageMeter()
-    top1 = AverageMeter()
-    top5 = AverageMeter()
 
     # switch to train mode
     model.train()
@@ -113,6 +114,7 @@ def train(train_loader, model, criterion, optimizer, epoch):
 
     end = time.time()
     for i, (input, target) in enumerate(train_loader):
+        input , target = Variable(input), Variable(target)
         # measure data loading time
         data_time.update(time.time() - end)
 
@@ -127,9 +129,7 @@ def train(train_loader, model, criterion, optimizer, epoch):
         # compute output
         output = model(input)
 
-
-        #target = target.unsqueeze(1)        #targetsize 하고 put size하고 맞추기 위해서 이 함수를 씀.
-
+        #target = target.unsqueeze(1)    0    #targetsize 하고 put size하고 맞추기 위해서 이 함수를 씀.
         #torch.argmax(output,1)
         loss = criterion(output, target)
 
@@ -165,6 +165,7 @@ def validate(val_loader, model, criterion):
     with torch.no_grad():
         end = time.time()
         for i, (input, target) in enumerate(val_loader):
+            input, target = Variable(input, volatile=False), Variable(target, volatile=False)
 
             #target = target.type(torch.FloatTensor)
 

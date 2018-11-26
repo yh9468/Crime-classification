@@ -1,17 +1,19 @@
 import torch.nn as nn
+import torch
 import torchvision.models
 
 class Net(nn.Module):
     def __init__(self):
         super(Net, self).__init__()
-        self.layer1 = nn.Linear(1000,3)
+        self.model_conv = torchvision.models.resnet50(pretrained=True)
+        self.numftrs = self.model_conv.fc.in_features
+        self.model_conv.fc = nn.Linear(self.numftrs,3)
 
-        self.net = torchvision.models.alexnet(pretrained=True)
+
         #for param in self.net.parameters():
          #   param.requires_grad = False
 
     def forward(self, x):
-        x1 = self.net(x)
-        y = self.layer1(x1)
+        y = self.model_conv(x)
         return y
 
